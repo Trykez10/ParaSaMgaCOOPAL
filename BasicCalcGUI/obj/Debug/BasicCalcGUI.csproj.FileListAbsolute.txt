@@ -1,0 +1,10 @@
+C:\Users\Tristan Tryke\OneDrive\Documents\CSharpPrograms\BasicCalcGUI\bin\Debug\BasicCalcGUI.exe.config
+C:\Users\Tristan Tryke\OneDrive\Documents\CSharpPrograms\BasicCalcGUI\bin\Debug\BasicCalcGUI.exe
+C:\Users\Tristan Tryke\OneDrive\Documents\CSharpPrograms\BasicCalcGUI\bin\Debug\BasicCalcGUI.pdb
+C:\Users\Tristan Tryke\OneDrive\Documents\CSharpPrograms\BasicCalcGUI\obj\Debug\BasicCalcGUI.csproj.AssemblyReference.cache
+C:\Users\Tristan Tryke\OneDrive\Documents\CSharpPrograms\BasicCalcGUI\obj\Debug\BasicCalcGUI.Form1.resources
+C:\Users\Tristan Tryke\OneDrive\Documents\CSharpPrograms\BasicCalcGUI\obj\Debug\BasicCalcGUI.Properties.Resources.resources
+C:\Users\Tristan Tryke\OneDrive\Documents\CSharpPrograms\BasicCalcGUI\obj\Debug\BasicCalcGUI.csproj.GenerateResource.cache
+C:\Users\Tristan Tryke\OneDrive\Documents\CSharpPrograms\BasicCalcGUI\obj\Debug\BasicCalcGUI.csproj.CoreCompileInputs.cache
+C:\Users\Tristan Tryke\OneDrive\Documents\CSharpPrograms\BasicCalcGUI\obj\Debug\BasicCalcGUI.exe
+C:\Users\Tristan Tryke\OneDrive\Documents\CSharpPrograms\BasicCalcGUI\obj\Debug\BasicCalcGUI.pdb
